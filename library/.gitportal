@@ -2,7 +2,6 @@
 	dir = bdir
 	bidircode = android
 	bidirbranch = main
-	commit = 25bfcaff2ed081bcf2a62b68e2e64bf5508dece0
-	parent = 33737e07ded9ae0b0816407e1eb627ab23eb22e0
+	commit = 345bb141d151418003bb8342750e0176d07ee04e
+	parent = b8bed0c55fd3fed84630c63d11fda1a5c17f0a29
 	remote = https://github.com/mDiekmann/GitPortalTemplateLibrary.git
-	pullmergecommit = afcfe807f1f37901fc2cc926dac8273e5e99b746
